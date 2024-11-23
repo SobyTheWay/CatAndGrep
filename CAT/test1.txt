@@ -1,0 +1,28 @@
+CC=gcc
+CC_FLAGS=-c -Wall -Werror -Wextra -std=c11
+BUILD_NAME=s21_cat
+
+all: build
+
+build: s21_cat
+
+rebuild: clean build
+
+CC=gcc
+CC_FLAGS=-c -Wall -Werror -Wextra -std=c11
+BUILD_NAME=s21_cat
+
+all: build
+
+build: s21_cat
+
+rebuild: clean build
+CC=gcc
+CC_FLAGS=-c -Wall -Werror -Wextra -std=c11
+BUILD_NAME=s21_cat
+
+all: build
+
+build: s21_cat
+
+rebuild: clean build
